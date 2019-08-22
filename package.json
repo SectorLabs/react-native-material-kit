@@ -1,6 +1,6 @@
 {
   "name": "@sector-labs/react-native-material-kit",
-  "version": "0.5.1-sl.5",
+  "version": "0.5.1-sl.6",
   "description": "Bringing Material Design to React Native",
   "main": "lib/index.js",
   "typings": "lib/react-native-material-kit.d.ts",

@@ -3,7 +3,7 @@ require "json"
 package = JSON.parse(File.read(File.join(__dir__, "package.json")))
 
 Pod::Spec.new do |s|
-  s.name         = "@sector-labs/react-native-material-kit"
+  s.name         = "react-native-material-kit"
   s.version      = package["version"]
   s.summary      = package["description"]
   s.requires_arc = true
